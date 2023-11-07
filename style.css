@@ -1,0 +1,11 @@
+td{
+    border: 1px solid black;
+}
+table{
+    border-spacing: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+}
